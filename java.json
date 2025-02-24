@@ -1,0 +1,185 @@
+{
+    "questions": [
+      {
+        "category": "Basics",
+        "question": "Who invented Java?",
+        "options": ["James Gosling", "Dennis Ritchie", "Bjarne Stroustrup", "Guido van Rossum"],
+        "answer": "James Gosling"
+      },
+      {
+        "category": "Basics",
+        "question": "What is the default value of a boolean variable in Java?",
+        "options": ["true", "false", "0", "null"],
+        "answer": "false"
+      },
+      {
+        "category": "Basics",
+        "question": "What is used to compile a Java program?",
+        "options": ["javac", "java", "javadoc", "jvm"],
+        "answer": "javac"
+      },
+      {
+        "category": "Basics",
+        "question": "Java is a:",
+        "options": ["Compiled language", "Interpreted language", "Both compiled and interpreted", "None of the above"],
+        "answer": "Both compiled and interpreted"
+      },
+      {
+        "category": "Basics",
+        "question": "What is the extension of a compiled Java class file?",
+        "options": [".java", ".class", ".obj", ".exe"],
+        "answer": ".class"
+      },
+      {
+        "category": "Data Types & Variables",
+        "question": "Which of these is NOT a valid data type in Java?",
+        "options": ["float", "double", "real", "int"],
+        "answer": "real"
+      },
+      {
+        "category": "Data Types & Variables",
+        "question": "What is the size of an int in Java?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "Machine dependent"],
+        "answer": "4 bytes"
+      },
+      {
+        "category": "Data Types & Variables",
+        "question": "Which of these literals can be assigned to a char type variable?",
+        "options": ["'A'", "\"A\"", "65", "Both a and c"],
+        "answer": "Both a and c"
+      },
+      {
+        "category": "Data Types & Variables",
+        "question": "What will be the output of System.out.println(5 + \"5\")?",
+        "options": ["10", "55", "Compilation error", "Runtime error"],
+        "answer": "55"
+      },
+      {
+        "category": "Data Types & Variables",
+        "question": "The default value of a reference variable in Java is:",
+        "options": ["null", "0", "false", "\"\""],
+        "answer": "null"
+      },
+      {
+        "category": "Operators & Control Flow",
+        "question": "Which operator is used for exponentiation in Java?",
+        "options": ["^", "**", "pow()", "exp()"],
+        "answer": "pow()"
+      },
+      {
+        "category": "Operators & Control Flow",
+        "question": "What is the output of System.out.println(10 / 3)?",
+        "options": ["3.33", "3", "3.0", "Error"],
+        "answer": "3"
+      },
+      {
+        "category": "Operators & Control Flow",
+        "question": "Which loop executes at least once?",
+        "options": ["for", "while", "do-while", "None"],
+        "answer": "do-while"
+      },
+      {
+        "category": "Operators & Control Flow",
+        "question": "What will be the output of int x = 5; System.out.println(x++);",
+        "options": ["5", "6", "Compilation error", "Undefined behavior"],
+        "answer": "5"
+      },
+      {
+        "category": "Operators & Control Flow",
+        "question": "What is the correct way to declare an infinite loop in Java?",
+        "options": ["while(true)", "for(;;)", "Both a and b", "None"],
+        "answer": "Both a and b"
+      },
+      {
+        "category": "Functions & Methods",
+        "question": "Which keyword is used to create a method in Java?",
+        "options": ["function", "method", "def", "void"],
+        "answer": "void"
+      },
+      {
+        "category": "Functions & Methods",
+        "question": "What is the return type of a method that does not return a value?",
+        "options": ["int", "void", "null", "None"],
+        "answer": "void"
+      },
+      {
+        "category": "Functions & Methods",
+        "question": "Which keyword is used to exit from a method?",
+        "options": ["stop", "exit", "return", "break"],
+        "answer": "return"
+      },
+      {
+        "category": "Functions & Methods",
+        "question": "What is method overloading?",
+        "options": ["Defining multiple methods with the same name but different parameters", "Using the same method in multiple classes", "Defining a method with a return type", "Calling a method inside another method"],
+        "answer": "Defining multiple methods with the same name but different parameters"
+      },
+      {
+        "category": "Functions & Methods",
+        "question": "What is method overriding?",
+        "options": ["Changing the return type of a method", "Redefining a method in a subclass", "Using the same method in different classes", "None"],
+        "answer": "Redefining a method in a subclass"
+      },
+      {
+        "category": "OOP",
+        "question": "What is the keyword used to create an object in Java?",
+        "options": ["new", "this", "create", "object"],
+        "answer": "new"
+      },
+      {
+        "category": "OOP",
+        "question": "What is encapsulation?",
+        "options": ["Hiding data using private variables", "Using methods inside a class", "Using global variables", "None"],
+        "answer": "Hiding data using private variables"
+      },
+      {
+        "category": "OOP",
+        "question": "Which keyword is used for inheritance in Java?",
+        "options": ["extend", "inherit", "superclass", "extends"],
+        "answer": "extends"
+      },
+      {
+        "category": "OOP",
+        "question": "A constructor is called when:",
+        "options": ["An object is created", "A method is called", "A class is defined", "None"],
+        "answer": "An object is created"
+      },
+      {
+        "category": "OOP",
+        "question": "What is an abstract class?",
+        "options": ["A class with no methods", "A class that cannot be instantiated", "A class with only static methods", "None"],
+        "answer": "A class that cannot be instantiated"
+      },
+      {
+        "category": "Exception Handling",
+        "question": "Which keyword is used to handle exceptions?",
+        "options": ["try", "catch", "finally", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "category": "Exception Handling",
+        "question": "What is thrown by the Java Virtual Machine (JVM) when a program crashes?",
+        "options": ["Exception", "Error", "Throwable", "RuntimeException"],
+        "answer": "Error"
+      },
+      {
+        "category": "Exception Handling",
+        "question": "What happens if an exception is not handled in Java?",
+        "options": ["Compilation error", "The program terminates", "The program continues", "None"],
+        "answer": "The program terminates"
+      },
+      {
+        "category": "Exception Handling",
+        "question": "What is the superclass of all exceptions in Java?",
+        "options": ["Object", "Exception", "Throwable", "RuntimeException"],
+        "answer": "Throwable"
+      },
+      {
+        "category": "Exception Handling",
+        "question": "What is the use of the finally block in Java?",
+        "options": ["To execute code after try/catch", "To catch errors", "To exit the program", "None"],
+        "answer": "To execute code after try/catch"
+      }
+    ]
+  }
+  

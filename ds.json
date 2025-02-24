@@ -1,0 +1,156 @@
+{
+    "title": "Data Science Question Paper",
+    "questions": [
+      {
+        "question": "What is Data Science?",
+        "options": ["A field that uses scientific methods to extract knowledge from data", "A branch of engineering", "A subset of machine learning", "None of the above"],
+        "answer": "A field that uses scientific methods to extract knowledge from data"
+      },
+      {
+        "question": "Which of the following is NOT a component of Data Science?",
+        "options": ["Machine Learning", "Data Engineering", "Medicine", "Statistics"],
+        "answer": "Medicine"
+      },
+      {
+        "question": "Which language is most commonly used for Data Science?",
+        "options": ["Java", "Python", "C++", "HTML"],
+        "answer": "Python"
+      },
+      {
+        "question": "What is the primary goal of data analysis?",
+        "options": ["Data storage", "Extracting meaningful insights", "Increasing internet speed", "Data compression"],
+        "answer": "Extracting meaningful insights"
+      },
+      {
+        "question": "What does ETL stand for in Data Science?",
+        "options": ["Extract, Transfer, Load", "Extract, Transform, Load", "Evaluate, Transfer, Learn", "Extract, Train, Learn"],
+        "answer": "Extract, Transform, Load"
+      },
+      {
+        "question": "What is the measure of central tendency?",
+        "options": ["Mean", "Median", "Mode", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "The probability of an event occurring given that another event has already occurred is called:",
+        "options": ["Joint probability", "Conditional probability", "Marginal probability", "Independent probability"],
+        "answer": "Conditional probability"
+      },
+      {
+        "question": "What does the standard deviation measure?",
+        "options": ["The average value of a dataset", "The spread of data points", "The highest value in a dataset", "The lowest value in a dataset"],
+        "answer": "The spread of data points"
+      },
+      {
+        "question": "A histogram is used to visualize:",
+        "options": ["Categorical data", "Numerical data", "Time series data", "Text data"],
+        "answer": "Numerical data"
+      },
+      {
+        "question": "What is the probability of getting heads in a fair coin flip?",
+        "options": ["0", "0.5", "1", "2"],
+        "answer": "0.5"
+      },
+      {
+        "question": "What is supervised learning?",
+        "options": ["Learning without labeled data", "Learning with labeled data", "Learning based on rewards and penalties", "None of the above"],
+        "answer": "Learning with labeled data"
+      },
+      {
+        "question": "Which of the following is a supervised learning algorithm?",
+        "options": ["K-Means Clustering", "Decision Tree", "Apriori Algorithm", "DBSCAN"],
+        "answer": "Decision Tree"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "options": ["The model learns too little", "The model learns too much noise from the data", "The model underperforms on the training data", "The model ignores the test data"],
+        "answer": "The model learns too much noise from the data"
+      },
+      {
+        "question": "Which technique is used to prevent overfitting?",
+        "options": ["Increasing training data", "Regularization", "Dropout", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is a neural network?",
+        "options": ["A programming language", "A type of artificial intelligence model", "A type of biological system", "A statistical formula"],
+        "answer": "A type of artificial intelligence model"
+      },
+      {
+        "question": "What is data cleaning?",
+        "options": ["Removing unwanted files", "Fixing or removing incorrect data", "Formatting text in a document", "Sorting data in ascending order"],
+        "answer": "Fixing or removing incorrect data"
+      },
+      {
+        "question": "Which method is used for handling missing values in a dataset?",
+        "options": ["Dropping missing values", "Imputing missing values", "Predicting missing values", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is feature scaling?",
+        "options": ["Normalizing the range of independent variables", "Adding new features to a dataset", "Reducing dataset size", "Removing duplicate rows"],
+        "answer": "Normalizing the range of independent variables"
+      },
+      {
+        "question": "Which technique is used for feature selection?",
+        "options": ["Principal Component Analysis (PCA)", "Forward Selection", "Backward Elimination", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is dimensionality reduction?",
+        "options": ["Increasing the number of columns in a dataset", "Reducing the number of input variables", "Expanding the dataset", "Removing the dataset"],
+        "answer": "Reducing the number of input variables"
+      },
+      {
+        "question": "What is Big Data?",
+        "options": ["Large amounts of structured and unstructured data", "Data stored on a cloud server", "Data related to AI only", "Small datasets"],
+        "answer": "Large amounts of structured and unstructured data"
+      },
+      {
+        "question": "What is the full form of Hadoop?",
+        "options": ["High-Dimensional Data Processing", "Hadoop Distributed File System", "Hierarchical Data Processing", "None of the above"],
+        "answer": "Hadoop Distributed File System"
+      },
+      {
+        "question": "Which of the following is NOT a data visualization tool?",
+        "options": ["Tableau", "Matplotlib", "Excel", "Apache Spark"],
+        "answer": "Apache Spark"
+      },
+      {
+        "question": "What does a scatter plot show?",
+        "options": ["Relationships between two variables", "Categorical data", "Summary statistics", "None of the above"],
+        "answer": "Relationships between two variables"
+      },
+      {
+        "question": "Which visualization is best for comparing proportions?",
+        "options": ["Line chart", "Pie chart", "Histogram", "Box plot"],
+        "answer": "Pie chart"
+      },
+      {
+        "question": "What is Natural Language Processing (NLP)?",
+        "options": ["Programming language processing", "The interaction between computers and human language", "Image processing technique", "None of the above"],
+        "answer": "The interaction between computers and human language"
+      },
+      {
+        "question": "What is deep learning?",
+        "options": ["A subset of AI that uses neural networks", "A type of cloud computing", "A large dataset", "None of the above"],
+        "answer": "A subset of AI that uses neural networks"
+      },
+      {
+        "question": "Which library is commonly used for deep learning?",
+        "options": ["TensorFlow", "Pandas", "Matplotlib", "Excel"],
+        "answer": "TensorFlow"
+      },
+      {
+        "question": "What is reinforcement learning?",
+        "options": ["A type of supervised learning", "Learning by interacting with an environment", "A data visualization technique", "None of the above"],
+        "answer": "Learning by interacting with an environment"
+      },
+      {
+        "question": "What is the primary use of SQL in Data Science?",
+        "options": ["Data visualization", "Querying and managing databases", "Training machine learning models", "Cleaning datasets"],
+        "answer": "Querying and managing databases"
+      }
+    ]
+  }
+  

@@ -1,0 +1,155 @@
+{
+    "questions": [
+      {
+        "question": "What does PHP stand for?",
+        "options": ["Personal Home Page", "PHP: Hypertext Preprocessor", "Preprocessed Hypertext Page", "Programming Home Page"],
+        "answer": "PHP: Hypertext Preprocessor"
+      },
+      {
+        "question": "PHP is a:",
+        "options": ["Server-side scripting language", "Client-side scripting language", "Both server-side and client-side", "Markup language"],
+        "answer": "Server-side scripting language"
+      },
+      {
+        "question": "Which symbol is used to indicate a variable in PHP?",
+        "options": ["&", "%", "$", "@"],
+        "answer": "$"
+      },
+      {
+        "question": "What is the correct way to end a PHP statement?",
+        "options": [".", ";", ":", ","],
+        "answer": ";"
+      },
+      {
+        "question": "Which function is used to display output in PHP?",
+        "options": ["print()", "echo", "display()", "show()"],
+        "answer": "echo"
+      },
+      {
+        "question": "PHP scripts are enclosed within:",
+        "options": ["<php> and </php>", "<script> and </script>", "<?php and ?>", "<?= and ?>"],
+        "answer": "<?php and ?>"
+      },
+      {
+        "question": "What is the default file extension for PHP files?",
+        "options": [".html", ".php", ".phps", ".xml"],
+        "answer": ".php"
+      },
+      {
+        "question": "PHP variables are:",
+        "options": ["Case-sensitive", "Case-insensitive", "Declared using var", "None of the above"],
+        "answer": "Case-sensitive"
+      },
+      {
+        "question": "Which of the following is a valid PHP variable name?",
+        "options": ["$123var", "$var_123", "$_var-123", "$@var"],
+        "answer": "$var_123"
+      },
+      {
+        "question": "Which of these is a valid PHP variable declaration?",
+        "options": ["int $var = 5;", "$var = 5;", "variable var = 5;", "declare $var = 5;"],
+        "answer": "$var = 5;"
+      },
+      {
+        "question": "What is the default data type of a variable in PHP?",
+        "options": ["String", "Integer", "Float", "None (PHP is loosely typed)"],
+        "answer": "None (PHP is loosely typed)"
+      },
+      {
+        "question": "What will echo 5 + '5'; output?",
+        "options": ["10", "55", "Error", "None"],
+        "answer": "10"
+      },
+      {
+        "question": "Which of the following is NOT a valid PHP data type?",
+        "options": ["String", "Float", "Double", "Character"],
+        "answer": "Character"
+      },
+      {
+        "question": "Which operator is used for concatenation in PHP?",
+        "options": ["+", ".", "&", ","],
+        "answer": "."
+      },
+      {
+        "question": "What is the output of echo (2 == '2') ? 'True' : 'False';?",
+        "options": ["True", "False", "Error", "Undefined"],
+        "answer": "True"
+      },
+      {
+        "question": "What is the output of the following PHP code?\n$x = 10;\nif ($x == '10') {\n    echo 'Equal';\n} else {\n    echo 'Not Equal';\n}",
+        "options": ["Equal", "Not Equal", "Error", "Undefined"],
+        "answer": "Equal"
+      },
+      {
+        "question": "Which of the following loops does NOT exist in PHP?",
+        "options": ["for", "while", "repeat-until", "foreach"],
+        "answer": "repeat-until"
+      },
+      {
+        "question": "The foreach loop is used for:",
+        "options": ["Iterating over arrays", "Iterating over objects", "Iterating over strings", "Both a and b"],
+        "answer": "Both a and b"
+      },
+      {
+        "question": "What will break do inside a loop?",
+        "options": ["Skip the current iteration", "Exit the loop", "Continue to the next iteration", "None of the above"],
+        "answer": "Exit the loop"
+      },
+      {
+        "question": "The continue statement is used to:",
+        "options": ["Exit the loop", "Skip the current iteration", "Restart the loop", "None of the above"],
+        "answer": "Skip the current iteration"
+      },
+      {
+        "question": "What is the correct syntax for defining a function in PHP?",
+        "options": ["function myFunction { }", "def myFunction() { }", "function myFunction() { }", "myFunction() { }"],
+        "answer": "function myFunction() { }"
+      },
+      {
+        "question": "PHP functions can return multiple values using:",
+        "options": ["return()", "list()", "array()", "Both b and c"],
+        "answer": "Both b and c"
+      },
+      {
+        "question": "What will count(array(1, 2, 3)) return?",
+        "options": ["2", "3", "1", "Error"],
+        "answer": "3"
+      },
+      {
+        "question": "Which function is used to remove the last element from an array?",
+        "options": ["array_pop()", "array_shift()", "array_unshift()", "array_push()"],
+        "answer": "array_pop()"
+      },
+      {
+        "question": "The explode() function in PHP is used for:",
+        "options": ["Joining strings", "Splitting a string into an array", "Converting arrays to strings", "None of the above"],
+        "answer": "Splitting a string into an array"
+      },
+      {
+        "question": "Which superglobal array contains form data sent via POST?",
+        "options": ["$_GET", "$_POST", "$_REQUEST", "$_SESSION"],
+        "answer": "$_POST"
+      },
+      {
+        "question": "What does isset($_SESSION['user']) check?",
+        "options": ["If a session is active", "If the 'user' key exists in the session", "If a session is destroyed", "None of the above"],
+        "answer": "If the 'user' key exists in the session"
+      },
+      {
+        "question": "Which function is used to connect to a MySQL database in PHP?",
+        "options": ["mysql_connect()", "mysqli_connect()", "db_connect()", "connect_db()"],
+        "answer": "mysqli_connect()"
+      },
+      {
+        "question": "How do you redirect a user to another page in PHP?",
+        "options": ["redirect('page.php');", "header('Location: page.php');", "goto('page.php');", "move('page.php');"],
+        "answer": "header('Location: page.php');"
+      },
+      {
+        "question": "Which function is used to hash a password securely in PHP?",
+        "options": ["md5()", "password_hash()", "sha1()", "encrypt()"],
+        "answer": "password_hash()"
+      }
+    ]
+  }
+  

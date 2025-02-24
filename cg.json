@@ -1,0 +1,185 @@
+{
+    "questionPaper": [
+      {
+        "category": "Primary Functions of Computer Graphics",
+        "questions": [
+          {
+            "question": "Which of the following is not a primary function of computer graphics?",
+            "options": ["Image processing", "Computer-aided design", "Word processing", "Simulation"],
+            "answer": "c) Word processing"
+          },
+          {
+            "question": "Which device is used for converting analog images into digital form?",
+            "options": ["Scanner", "Plotter", "Monitor", "Printer"],
+            "answer": "a) Scanner"
+          },
+          {
+            "question": "The process of creating a 2D or 3D representation of an object is called:",
+            "options": ["Rendering", "Modeling", "Animation", "Projection"],
+            "answer": "b) Modeling"
+          },
+          {
+            "question": "Which of the following is a raster graphics device?",
+            "options": ["Plotter", "CRT Monitor", "3D Printer", "Joystick"],
+            "answer": "b) CRT Monitor"
+          },
+          {
+            "question": "What is the smallest unit of a digital image?",
+            "options": ["Byte", "Pixel", "Bit", "Resolution"],
+            "answer": "b) Pixel"
+          }
+        ]
+      },
+      {
+        "category": "Raster and Vector Graphics",
+        "questions": [
+          {
+            "question": "Raster graphics are also known as:",
+            "options": ["Line graphics", "Bitmap graphics", "Vector graphics", "Polygon graphics"],
+            "answer": "b) Bitmap graphics"
+          },
+          {
+            "question": "Which file format is NOT vector-based?",
+            "options": ["SVG", "AI", "BMP", "EPS"],
+            "answer": "c) BMP"
+          },
+          {
+            "question": "Which technique is used to remove jagged edges in raster images?",
+            "options": ["Interpolation", "Anti-aliasing", "Clipping", "Shading"],
+            "answer": "b) Anti-aliasing"
+          },
+          {
+            "question": "The advantage of vector graphics over raster graphics is:",
+            "options": ["Less memory usage", "Better scaling without losing quality", "Faster rendering", "All of the above"],
+            "answer": "d) All of the above"
+          },
+          {
+            "question": "Which of the following is an example of a raster graphics format?",
+            "options": ["JPEG", "SVG", "AI", "PDF"],
+            "answer": "a) JPEG"
+          }
+        ]
+      },
+      {
+        "category": "2D and 3D Transformations",
+        "questions": [
+          {
+            "question": "Which transformation changes the size of an object?",
+            "options": ["Translation", "Rotation", "Scaling", "Shearing"],
+            "answer": "c) Scaling"
+          },
+          {
+            "question": "Which matrix is used for 2D translation?",
+            "options": ["2×2", "3×3", "4×4", "1×2"],
+            "answer": "b) 3×3"
+          },
+          {
+            "question": "Rotation in 2D is performed using which mathematical functions?",
+            "options": ["Sine and Cosine", "Tangent and Cotangent", "Logarithm and Exponential", "Mean and Median"],
+            "answer": "a) Sine and Cosine"
+          },
+          {
+            "question": "Homogeneous coordinates are used to represent transformations in:",
+            "options": ["2D", "3D", "Both 2D and 3D", "None of these"],
+            "answer": "c) Both 2D and 3D"
+          },
+          {
+            "question": "Which transformation skews an object?",
+            "options": ["Rotation", "Scaling", "Translation", "Shearing"],
+            "answer": "d) Shearing"
+          }
+        ]
+      },
+      {
+        "category": "Clipping and Viewing",
+        "questions": [
+          {
+            "question": "Cohen-Sutherland algorithm is used for:",
+            "options": ["Hidden surface removal", "Line clipping", "Color shading", "Texture mapping"],
+            "answer": "b) Line clipping"
+          },
+          {
+            "question": "Which algorithm is used for polygon clipping?",
+            "options": ["DDA", "Sutherland-Hodgman", "Bresenham", "Z-buffer"],
+            "answer": "b) Sutherland-Hodgman"
+          },
+          {
+            "question": "Which type of projection preserves the relative proportions of an object?",
+            "options": ["Perspective", "Orthographic", "Oblique", "Vanishing point"],
+            "answer": "b) Orthographic"
+          },
+          {
+            "question": "Which plane is used in perspective projection?",
+            "options": ["Clipping plane", "Viewing plane", "Projection plane", "Normal plane"],
+            "answer": "c) Projection plane"
+          },
+          {
+            "question": "What happens in a perspective projection?",
+            "options": ["Parallel lines remain parallel", "Objects far away appear smaller", "Distances remain unchanged", "Image remains unaffected"],
+            "answer": "b) Objects far away appear smaller"
+          }
+        ]
+      },
+      {
+        "category": "Rendering and Shading",
+        "questions": [
+          {
+            "question": "Which shading technique gives the most realistic appearance?",
+            "options": ["Flat shading", "Gouraud shading", "Phong shading", "Wireframe shading"],
+            "answer": "c) Phong shading"
+          },
+          {
+            "question": "Hidden surface removal is essential for:",
+            "options": ["2D Graphics", "3D Graphics", "Vector Graphics", "Raster Graphics"],
+            "answer": "b) 3D Graphics"
+          },
+          {
+            "question": "The Z-buffer algorithm is used for:",
+            "options": ["Clipping", "Shading", "Hidden surface removal", "Color correction"],
+            "answer": "c) Hidden surface removal"
+          },
+          {
+            "question": "Texture mapping is used to:",
+            "options": ["Apply colors to objects", "Simulate surface details", "Remove hidden lines", "Increase polygon count"],
+            "answer": "b) Simulate surface details"
+          },
+          {
+            "question": "Ray tracing is mainly used for:",
+            "options": ["Faster rendering", "Realistic lighting and reflection", "Wireframe models", "Bitmap graphics"],
+            "answer": "b) Realistic lighting and reflection"
+          }
+        ]
+      },
+      {
+        "category": "Miscellaneous",
+        "questions": [
+          {
+            "question": "The refresh rate of a CRT is measured in:",
+            "options": ["Hertz (Hz)", "Pixels", "Frames", "Bits"],
+            "answer": "a) Hertz (Hz)"
+          },
+          {
+            "question": "Which color model is used in monitors?",
+            "options": ["CMYK", "RGB", "HSV", "YUV"],
+            "answer": "b) RGB"
+          },
+          {
+            "question": "Which type of graphics allows smooth scaling without pixelation?",
+            "options": ["Raster", "Vector", "Bitmap", "Grid-based"],
+            "answer": "b) Vector"
+          },
+          {
+            "question": "Which is NOT a component of a graphics pipeline?",
+            "options": ["Geometry Processing", "Rasterization", "Text Processing", "Pixel Shading"],
+            "answer": "c) Text Processing"
+          },
+          {
+            "question": "Which API is widely used for 3D graphics rendering?",
+            "options": ["OpenGL", "SQL", "HTML", "CSS"],
+            "answer": "a) OpenGL"
+          }
+        ]
+      }
+    ]
+  }
+  

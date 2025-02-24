@@ -1,0 +1,165 @@
+{
+    "Software Engineering": [
+      {
+        "question": "What is Software Engineering?",
+        "options": ["The study of computers", "The application of engineering principles to software development", "The use of programming languages", "The design of hardware components"],
+        "answer": "b) The application of engineering principles to software development"
+      },
+      {
+        "question": "What is the primary goal of software engineering?",
+        "options": ["To develop high-cost software", "To create complex software", "To develop high-quality, maintainable, and efficient software", "To increase the number of programmers"],
+        "answer": "c) To develop high-quality, maintainable, and efficient software"
+      },
+      {
+        "question": "Which of the following is NOT a characteristic of software?",
+        "options": ["Software does not wear out", "Software is developed, not manufactured", "Software is tangible", "Software can be replicated easily"],
+        "answer": "c) Software is tangible"
+      },
+      {
+        "question": "What is the first step in the software development life cycle (SDLC)?",
+        "options": ["Design", "Testing", "Requirement analysis", "Deployment"],
+        "answer": "c) Requirement analysis"
+      },
+      {
+        "question": "Which model is also known as the 'Classic Life Cycle Model'?",
+        "options": ["Spiral Model", "Waterfall Model", "Agile Model", "V-Model"],
+        "answer": "b) Waterfall Model"
+      }
+    ],
+    "Software Development Life Cycle (SDLC)": [
+      {
+        "question": "How many phases are there in SDLC?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "d) 7"
+      },
+      {
+        "question": "In which SDLC phase is the feasibility study conducted?",
+        "options": ["Requirement Analysis", "Design", "Testing", "Maintenance"],
+        "answer": "a) Requirement Analysis"
+      },
+      {
+        "question": "Which of the following SDLC models is iterative in nature?",
+        "options": ["Waterfall Model", "Agile Model", "Spiral Model", "Both b and c"],
+        "answer": "d) Both b and c"
+      },
+      {
+        "question": "Which phase of SDLC is responsible for coding?",
+        "options": ["Design", "Implementation", "Maintenance", "Testing"],
+        "answer": "b) Implementation"
+      },
+      {
+        "question": "In which SDLC phase is software tested?",
+        "options": ["Requirement gathering", "Design", "Testing", "Deployment"],
+        "answer": "c) Testing"
+      }
+    ],
+    "Software Development Models": [
+      {
+        "question": "The Agile model emphasizes:",
+        "options": ["Comprehensive documentation", "Customer collaboration and flexibility", "Fixed sequential steps", "Rigid planning"],
+        "answer": "b) Customer collaboration and flexibility"
+      },
+      {
+        "question": "Which model is best suited for large, complex projects?",
+        "options": ["Waterfall Model", "Spiral Model", "Agile Model", "RAD Model"],
+        "answer": "b) Spiral Model"
+      },
+      {
+        "question": "What is the main advantage of the Prototype Model?",
+        "options": ["Reduces cost", "Ensures user involvement", "Requires less testing", "Eliminates the need for design"],
+        "answer": "b) Ensures user involvement"
+      },
+      {
+        "question": "In Agile development, what is a 'Sprint'?",
+        "options": ["A short development cycle", "A testing phase", "A documentation process", "A bug-fixing step"],
+        "answer": "a) A short development cycle"
+      },
+      {
+        "question": "Which model follows an incremental approach?",
+        "options": ["Waterfall", "Agile", "Spiral", "Prototype"],
+        "answer": "b) Agile"
+      }
+    ],
+    "Software Design and Architecture": [
+      {
+        "question": "What is software design?",
+        "options": ["Writing source code", "Converting algorithms into programs", "Defining the structure and behavior of software", "None of the above"],
+        "answer": "c) Defining the structure and behavior of software"
+      },
+      {
+        "question": "What is modularization in software design?",
+        "options": ["Breaking software into smaller, manageable parts", "Writing code in a single module", "Using different programming languages", "Reducing software functionality"],
+        "answer": "a) Breaking software into smaller, manageable parts"
+      },
+      {
+        "question": "Which of the following is NOT a software design principle?",
+        "options": ["High cohesion", "Low coupling", "Hard coding", "Abstraction"],
+        "answer": "c) Hard coding"
+      },
+      {
+        "question": "What is an architectural pattern?",
+        "options": ["A set of rules for designing software", "A predefined solution for common architectural problems", "A coding technique", "A debugging method"],
+        "answer": "b) A predefined solution for common architectural problems"
+      },
+      {
+        "question": "MVC stands for:",
+        "options": ["Model View Code", "Model View Controller", "Module Variable Code", "Multi-View Component"],
+        "answer": "b) Model View Controller"
+      }
+    ],
+    "Software Testing": [
+      {
+        "question": "What is software testing?",
+        "options": ["Checking if software meets requirements", "Writing software documentation", "Debugging programs", "Writing code"],
+        "answer": "a) Checking if software meets requirements"
+      },
+      {
+        "question": "Which type of testing is done without looking at the internal code?",
+        "options": ["White-box testing", "Black-box testing", "Unit testing", "Regression testing"],
+        "answer": "b) Black-box testing"
+      },
+      {
+        "question": "Unit testing is performed at which level?",
+        "options": ["System level", "Component level", "Integration level", "Deployment level"],
+        "answer": "b) Component level"
+      },
+      {
+        "question": "What is regression testing?",
+        "options": ["Testing the entire system", "Testing to check if new changes have broken existing functionality", "Testing to measure performance", "Testing user interfaces"],
+        "answer": "b) Testing to check if new changes have broken existing functionality"
+      },
+      {
+        "question": "Which type of testing evaluates software performance?",
+        "options": ["Unit testing", "Load testing", "Regression testing", "Functional testing"],
+        "answer": "b) Load testing"
+      }
+    ],
+    "Software Maintenance & Quality Assurance": [
+      {
+        "question": "What is software maintenance?",
+        "options": ["Writing new software", "Updating and fixing existing software", "Testing software", "Deleting software"],
+        "answer": "b) Updating and fixing existing software"
+      },
+      {
+        "question": "Which of the following is NOT a type of software maintenance?",
+        "options": ["Corrective", "Adaptive", "Preventive", "Development"],
+        "answer": "d) Development"
+      },
+      {
+        "question": "Which model is used for software quality assurance?",
+        "options": ["ISO 9001", "CMMI", "Six Sigma", "All of the above"],
+        "answer": "d) All of the above"
+      },
+      {
+        "question": "What is the full form of CMMI?",
+        "options": ["Capability Maturity Model Integration", "Computer Maintenance Management Interface", "Certified Model for Management Integration", "Controlled Maintenance Model Integration"],
+        "answer": "a) Capability Maturity Model Integration"
+      },
+      {
+        "question": "Which factor is NOT used in measuring software quality?",
+        "options": ["Reliability", "Maintainability", "Speed of writing code", "Performance"],
+        "answer": "c) Speed of writing code"
+      }
+    ]
+  }
+  

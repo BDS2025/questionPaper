@@ -1,0 +1,205 @@
+{
+    "questions": [
+      {
+        "question": "What is the full form of COA?",
+        "options": [
+          "Computer Oriented Architecture",
+          "Centralized Operational Architecture",
+          "Computer Organization and Architecture",
+          "Computer Operation and Arithmetic"
+        ],
+        "answer": "Computer Organization and Architecture"
+      },
+      {
+        "question": "What is the primary function of the CPU?",
+        "options": [
+          "Data storage",
+          "Processing data and instructions",
+          "Displaying information",
+          "Managing peripherals"
+        ],
+        "answer": "Processing data and instructions"
+      },
+      {
+        "question": "Which of the following is NOT a component of a CPU?",
+        "options": [
+          "ALU",
+          "Control Unit",
+          "Memory Unit",
+          "Registers"
+        ],
+        "answer": "Memory Unit"
+      },
+      {
+        "question": "The unit that controls the execution of instructions is called:",
+        "options": [
+          "ALU",
+          "Control Unit",
+          "Memory Unit",
+          "Input Unit"
+        ],
+        "answer": "Control Unit"
+      },
+      {
+        "question": "The ALU is responsible for:",
+        "options": [
+          "Storing data",
+          "Arithmetic and logic operations",
+          "Controlling signals",
+          "Managing input/output"
+        ],
+        "answer": "Arithmetic and logic operations"
+      },
+      {
+        "question": "The fastest memory in a computer is:",
+        "options": [
+          "Hard disk",
+          "RAM",
+          "Cache memory",
+          "Register"
+        ],
+        "answer": "Register"
+      },
+      {
+        "question": "The memory hierarchy is arranged in which order of speed (fastest to slowest)?",
+        "options": [
+          "Register > Cache > RAM > Hard Disk",
+          "Cache > Register > RAM > Hard Disk",
+          "Hard Disk > RAM > Cache > Register",
+          "RAM > Cache > Register > Hard Disk"
+        ],
+        "answer": "Register > Cache > RAM > Hard Disk"
+      },
+      {
+        "question": "The type of memory that is volatile and temporary is:",
+        "options": [
+          "ROM",
+          "Flash Memory",
+          "RAM",
+          "Hard Disk"
+        ],
+        "answer": "RAM"
+      },
+      {
+        "question": "Which of the following is NOT a secondary storage device?",
+        "options": [
+          "SSD",
+          "HDD",
+          "RAM",
+          "Flash drive"
+        ],
+        "answer": "RAM"
+      },
+      {
+        "question": "Which memory is non-volatile?",
+        "options": [
+          "RAM",
+          "Cache",
+          "ROM",
+          "Registers"
+        ],
+        "answer": "ROM"
+      },
+      {
+        "question": "A single instruction that operates on multiple data sets is known as:",
+        "options": [
+          "SISD",
+          "SIMD",
+          "MIMD",
+          "MISD"
+        ],
+        "answer": "SIMD"
+      },
+      {
+        "question": "The instruction cycle consists of how many phases?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "answer": "4"
+      },
+      {
+        "question": "The process of fetching, decoding, and executing an instruction is called:",
+        "options": [
+          "Instruction Execution",
+          "Instruction Processing",
+          "Instruction Cycle",
+          "Instruction Scheduling"
+        ],
+        "answer": "Instruction Cycle"
+      },
+      {
+        "question": "The format of an instruction is determined by:",
+        "options": [
+          "Opcode and operands",
+          "Addressing modes",
+          "Number of bits",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "A RISC processor has:",
+        "options": [
+          "Fewer instructions",
+          "More complex instructions",
+          "No instruction set",
+          "No pipelining"
+        ],
+        "answer": "Fewer instructions"
+      },
+      {
+        "question": "Addressing mode defines:",
+        "options": [
+          "The type of instruction",
+          "How operands are accessed",
+          "The speed of execution",
+          "How memory is allocated"
+        ],
+        "answer": "How operands are accessed"
+      },
+      {
+        "question": "Immediate addressing mode uses:",
+        "options": [
+          "A register",
+          "A direct memory address",
+          "A constant value",
+          "A pointer"
+        ],
+        "answer": "A constant value"
+      },
+      {
+        "question": "Indirect addressing mode uses:",
+        "options": [
+          "A register",
+          "A pointer to memory",
+          "Immediate values",
+          "Direct memory access"
+        ],
+        "answer": "A pointer to memory"
+      },
+      {
+        "question": "In direct addressing mode, the operand is:",
+        "options": [
+          "Inside the instruction",
+          "In a register",
+          "In memory",
+          "On the stack"
+        ],
+        "answer": "In memory"
+      },
+      {
+        "question": "Stack addressing mode uses:",
+        "options": [
+          "LIFO principle",
+          "FIFO principle",
+          "Random access",
+          "None of the above"
+        ],
+        "answer": "LIFO principle"
+      }
+    ]
+  }
+  

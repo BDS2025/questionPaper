@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "question": "What does RDBMS stand for?",
+        "options": [
+          "a) Relational Database Management System",
+          "b) Random Database Management System",
+          "c) Remote Database Management System",
+          "d) Recent Database Management System"
+        ],
+        "answer": "a) Relational Database Management System"
+      },
+      {
+        "question": "Which of the following is NOT an example of an RDBMS?",
+        "options": [
+          "a) MySQL",
+          "b) PostgreSQL",
+          "c) MongoDB",
+          "d) Oracle"
+        ],
+        "answer": "c) MongoDB"
+      },
+      {
+        "question": "What is a relation in an RDBMS?",
+        "options": [
+          "a) A table",
+          "b) A row",
+          "c) A column",
+          "d) A query"
+        ],
+        "answer": "a) A table"
+      },
+      {
+        "question": "In an RDBMS, a column is also called:",
+        "options": [
+          "a) Attribute",
+          "b) Tuple",
+          "c) Record",
+          "d) Entity"
+        ],
+        "answer": "a) Attribute"
+      },
+      {
+        "question": "A row in an RDBMS table is called a:",
+        "options": [
+          "a) Attribute",
+          "b) Tuple",
+          "c) Schema",
+          "d) Field"
+        ],
+        "answer": "b) Tuple"
+      },
+      {
+        "question": "A primary key is used to:",
+        "options": [
+          "a) Uniquely identify a record in a table",
+          "b) Link two tables",
+          "c) Store images",
+          "d) Perform calculations"
+        ],
+        "answer": "a) Uniquely identify a record in a table"
+      },
+      {
+        "question": "What is a foreign key?",
+        "options": [
+          "a) A key that uniquely identifies a record",
+          "b) A key that refers to a primary key in another table",
+          "c) A randomly generated key",
+          "d) A key used only for indexing"
+        ],
+        "answer": "b) A key that refers to a primary key in another table"
+      },
+      {
+        "question": "A composite key is:",
+        "options": [
+          "a) A key formed by combining multiple columns",
+          "b) A key stored in another table",
+          "c) A randomly generated key",
+          "d) A key that stores complex numbers"
+        ],
+        "answer": "a) A key formed by combining multiple columns"
+      },
+      {
+        "question": "What is a candidate key?",
+        "options": [
+          "a) A key used for encryption",
+          "b) A key that could be a primary key",
+          "c) A duplicate key",
+          "d) A key that exists only in views"
+        ],
+        "answer": "b) A key that could be a primary key"
+      },
+      {
+        "question": "A unique key:",
+        "options": [
+          "a) Allows duplicate values",
+          "b) Does not allow duplicate values",
+          "c) Is always a primary key",
+          "d) Cannot be used in indexing"
+        ],
+        "answer": "b) Does not allow duplicate values"
+      },
+      {
+        "question": "Which SQL command is used to retrieve data from a database?",
+        "options": [
+          "a) FETCH",
+          "b) SELECT",
+          "c) RETRIEVE",
+          "d) GET"
+        ],
+        "answer": "b) SELECT"
+      },
+      {
+        "question": "How do you retrieve all columns from a table?",
+        "options": [
+          "a) SELECT all FROM table_name;",
+          "b) GET * FROM table_name;",
+          "c) SELECT * FROM table_name;",
+          "d) SHOW table_name;"
+        ],
+        "answer": "c) SELECT * FROM table_name;"
+      },
+      {
+        "question": "Which SQL command is used to insert data into a table?",
+        "options": [
+          "a) INSERT",
+          "b) ADD",
+          "c) PUT",
+          "d) UPDATE"
+        ],
+        "answer": "a) INSERT"
+      },
+      {
+        "question": "Which SQL command is used to delete records from a table?",
+        "options": [
+          "a) REMOVE",
+          "b) DELETE",
+          "c) DROP",
+          "d) ERASE"
+        ],
+        "answer": "b) DELETE"
+      },
+      {
+        "question": "What does the UPDATE statement do in SQL?",
+        "options": [
+          "a) Inserts a new record",
+          "b) Modifies existing records",
+          "c) Deletes all records",
+          "d) Creates a new table"
+        ],
+        "answer": "b) Modifies existing records"
+      },
+      {
+        "question": "What is a constraint in SQL?",
+        "options": [
+          "a) A rule applied to data",
+          "b) A query type",
+          "c) A stored procedure",
+          "d) A type of table"
+        ],
+        "answer": "a) A rule applied to data"
+      },
+      {
+        "question": "Which constraint ensures that all values in a column are unique?",
+        "options": [
+          "a) CHECK",
+          "b) UNIQUE",
+          "c) DEFAULT",
+          "d) PRIMARY KEY"
+        ],
+        "answer": "b) UNIQUE"
+      },
+      {
+        "question": "Which constraint ensures that no NULL values are allowed in a column?",
+        "options": [
+          "a) NOT NULL",
+          "b) CHECK",
+          "c) UNIQUE",
+          "d) PRIMARY KEY"
+        ],
+        "answer": "a) NOT NULL"
+      },
+      {
+        "question": "Which constraint is used to set a default value for a column?",
+        "options": [
+          "a) CHECK",
+          "b) DEFAULT",
+          "c) UNIQUE",
+          "d) PRIMARY KEY"
+        ],
+        "answer": "b) DEFAULT"
+      },
+      {
+        "question": "The CHECK constraint is used to:",
+        "options": [
+          "a) Ensure a column value meets a specific condition",
+          "b) Check for duplicate values",
+          "c) Check the number of rows in a table",
+          "d) Change column values"
+        ],
+        "answer": "a) Ensure a column value meets a specific condition"
+      },
+      {
+        "question": "What is a JOIN in SQL?",
+        "options": [
+          "a) A way to combine rows from two or more tables",
+          "b) A method to delete records",
+          "c) A way to create a new database",
+          "d) A command for indexing"
+        ],
+        "answer": "a) A way to combine rows from two or more tables"
+      },
+      {
+        "question": "Which join returns only matching rows from both tables?",
+        "options": [
+          "a) INNER JOIN",
+          "b) LEFT JOIN",
+          "c) RIGHT JOIN",
+          "d) FULL JOIN"
+        ],
+        "answer": "a) INNER JOIN"
+      },
+      {
+        "question": "Which join returns all rows from the left table and matching rows from the right table?",
+        "options": [
+          "a) INNER JOIN",
+          "b) LEFT JOIN",
+          "c) RIGHT JOIN",
+          "d) FULL JOIN"
+        ],
+        "answer": "b) LEFT JOIN"
+      },
+      {
+        "question": "Which join returns all rows from both tables?",
+        "options": [
+          "a) INNER JOIN",
+          "b) LEFT JOIN",
+          "c) RIGHT JOIN",
+          "d) FULL JOIN"
+        ],
+        "answer": "d) FULL JOIN"
+      },
+      {
+        "question": "Which SQL clause is used with JOIN to filter results?",
+        "options": [
+          "a) WHERE",
+          "b) GROUP BY",
+          "c) ORDER BY",
+          "d) HAVING"
+        ],
+        "answer": "a) WHERE"
+      },
+      {
+        "question": "What is an index in a database?",
+        "options": [
+          "a) A data structure for fast retrieval",
+          "b) A key used for encryption",
+          "c) A special type of query",
+          "d) A database command"
+        ],
+        "answer": "a) A data structure for fast retrieval"
+      },
+      {
+        "question": "What is ACID in databases?",
+        "options": [
+          "a) A way to clean data",
+          "b) Properties of transactions",
+          "c) A type of SQL query",
+          "d) A database indexing technique"
+        ],
+        "answer": "b) Properties of transactions"
+      },
+      {
+        "question": "What does the 'A' in ACID stand for?",
+        "options": [
+          "a) Association",
+          "b) Atomicity",
+          "c) Attribute",
+          "d) Aggregation"
+        ],
+        "answer": "b) Atomicity"
+      },
+      {
+        "question": "What SQL statement is used to start a transaction?",
+        "options": [
+          "a) START TRANSACTION",
+          "b) BEGIN",
+          "c) INIT TRANSACTION",
+          "d) OPEN"
+        ],
+        "answer": "a) START TRANSACTION"
+      },
+      {
+        "question": "What SQL command is used to save changes in a transaction?",
+        "options": [
+          "a) SAVE",
+          "b) COMMIT",
+          "c) ROLLBACK",
+          "d) UPDATE"
+        ],
+        "answer": "b) COMMIT"
+      }
+    ]
+  }
+  

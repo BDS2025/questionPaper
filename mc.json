@@ -1,0 +1,185 @@
+{
+    "questionPaper": [
+      {
+        "category": "Mobile Computing Basics",
+        "questions": [
+          {
+            "question": "What is Mobile Computing?",
+            "options": ["Using a computer while stationary", "Using computing devices wirelessly", "Using only desktops", "Using a computer with a wired connection"],
+            "answer": "b) Using computing devices wirelessly"
+          },
+          {
+            "question": "Which of the following is NOT a component of mobile computing?",
+            "options": ["Mobile hardware", "Mobile software", "Mobile communication", "Desktop monitors"],
+            "answer": "d) Desktop monitors"
+          },
+          {
+            "question": "Which of the following is an example of mobile computing?",
+            "options": ["Using a desktop PC", "Browsing the web on a smartphone", "Playing offline games on a console", "Using a wired LAN"],
+            "answer": "b) Browsing the web on a smartphone"
+          },
+          {
+            "question": "What is the main advantage of mobile computing?",
+            "options": ["High power consumption", "Limited mobility", "Remote access", "Large device size"],
+            "answer": "c) Remote access"
+          },
+          {
+            "question": "Which of the following is a mobile computing device?",
+            "options": ["Laptop", "Smartphone", "Tablet", "All of the above"],
+            "answer": "d) All of the above"
+          }
+        ]
+      },
+      {
+        "category": "Mobile Communication Technologies",
+        "questions": [
+          {
+            "question": "Which of the following is NOT a wireless communication technology?",
+            "options": ["Bluetooth", "Wi-Fi", "Ethernet", "4G LTE"],
+            "answer": "c) Ethernet"
+          },
+          {
+            "question": "What does Wi-Fi stand for?",
+            "options": ["Wireless Fidelity", "Wide Frequency", "Wireless Function", "Web Fiber"],
+            "answer": "a) Wireless Fidelity"
+          },
+          {
+            "question": "Which of the following wireless technologies is used for short-range communication?",
+            "options": ["Bluetooth", "5G", "WiMAX", "Satellite Communication"],
+            "answer": "a) Bluetooth"
+          },
+          {
+            "question": "What is the maximum data transfer rate of Bluetooth 5.0?",
+            "options": ["1 Mbps", "2 Mbps", "3 Mbps", "4 Mbps"],
+            "answer": "b) 2 Mbps"
+          },
+          {
+            "question": "Which protocol is commonly used for email communication?",
+            "options": ["HTTP", "SMTP", "FTP", "ICMP"],
+            "answer": "b) SMTP"
+          }
+        ]
+      },
+      {
+        "category": "Mobile Networks and Generations",
+        "questions": [
+          {
+            "question": "What does 4G stand for?",
+            "options": ["Fourth Generation", "Four Gigabytes", "Fast Global Network", "Fiber Grid"],
+            "answer": "a) Fourth Generation"
+          },
+          {
+            "question": "Which technology is used in 5G networks?",
+            "options": ["CDMA", "OFDMA", "GSM", "EDGE"],
+            "answer": "b) OFDMA"
+          },
+          {
+            "question": "What is the maximum theoretical speed of 4G LTE?",
+            "options": ["100 Mbps", "1 Gbps", "10 Gbps", "500 Mbps"],
+            "answer": "b) 1 Gbps"
+          },
+          {
+            "question": "What is the primary advantage of 5G over 4G?",
+            "options": ["Lower latency", "Increased power consumption", "Slower data speeds", "Limited device connectivity"],
+            "answer": "a) Lower latency"
+          },
+          {
+            "question": "Which of the following is NOT a cellular network standard?",
+            "options": ["GSM", "CDMA", "Wi-Fi", "LTE"],
+            "answer": "c) Wi-Fi"
+          }
+        ]
+      },
+      {
+        "category": "Mobile Operating Systems",
+        "questions": [
+          {
+            "question": "Which of the following is a mobile operating system?",
+            "options": ["Windows XP", "macOS", "Android", "Ubuntu"],
+            "answer": "c) Android"
+          },
+          {
+            "question": "What does 'iOS' stand for?",
+            "options": ["Internet Operating System", "iPhone Operating System", "Intelligent OS", "Integrated Operating System"],
+            "answer": "b) iPhone Operating System"
+          },
+          {
+            "question": "Android is based on which operating system?",
+            "options": ["Windows", "Linux", "macOS", "UNIX"],
+            "answer": "b) Linux"
+          },
+          {
+            "question": "Which company developed the Android operating system?",
+            "options": ["Apple", "Google", "Microsoft", "IBM"],
+            "answer": "b) Google"
+          },
+          {
+            "question": "What is the name of the official app store for Android?",
+            "options": ["Apple Store", "Windows Store", "Google Play Store", "Amazon Store"],
+            "answer": "c) Google Play Store"
+          }
+        ]
+      },
+      {
+        "category": "Mobile Security",
+        "questions": [
+          {
+            "question": "What is a major security concern in mobile computing?",
+            "options": ["Battery life", "Data encryption", "Screen brightness", "Touchscreen sensitivity"],
+            "answer": "b) Data encryption"
+          },
+          {
+            "question": "Which of the following helps protect mobile data?",
+            "options": ["VPN", "Increasing screen brightness", "Deleting apps", "Using more storage"],
+            "answer": "a) VPN"
+          },
+          {
+            "question": "What is phishing?",
+            "options": ["A way to secure mobile networks", "An attack to steal personal data", "A type of mobile processor", "A cloud storage service"],
+            "answer": "b) An attack to steal personal data"
+          },
+          {
+            "question": "Which mobile authentication method is the most secure?",
+            "options": ["PIN code", "Password", "Fingerprint scanning", "Pattern lock"],
+            "answer": "c) Fingerprint scanning"
+          },
+          {
+            "question": "What does MFA stand for in mobile security?",
+            "options": ["Multi-Factor Authentication", "Mobile Function Algorithm", "Mobile Firmware Application", "Multiple File Access"],
+            "answer": "a) Multi-Factor Authentication"
+          }
+        ]
+      },
+      {
+        "category": "Mobile Cloud Computing",
+        "questions": [
+          {
+            "question": "What is mobile cloud computing?",
+            "options": ["Storing mobile data on a physical drive", "Using cloud-based applications on mobile devices", "Making calls via satellites", "Using mobile devices without internet"],
+            "answer": "b) Using cloud-based applications on mobile devices"
+          },
+          {
+            "question": "Which of the following is a cloud storage service?",
+            "options": ["Dropbox", "Bluetooth", "Wi-Fi", "5G"],
+            "answer": "a) Dropbox"
+          },
+          {
+            "question": "What is the main benefit of cloud computing for mobile devices?",
+            "options": ["Increased battery life", "Access to unlimited storage", "Reduced device performance", "Increased internet charges"],
+            "answer": "b) Access to unlimited storage"
+          },
+          {
+            "question": "Which company provides the iCloud service?",
+            "options": ["Microsoft", "Google", "Apple", "IBM"],
+            "answer": "c) Apple"
+          },
+          {
+            "question": "Which of the following cloud models allows access only to a specific organization?",
+            "options": ["Public cloud", "Private cloud", "Hybrid cloud", "Distributed cloud"],
+            "answer": "b) Private cloud"
+          }
+        ]
+      }
+    ]
+  }
+  

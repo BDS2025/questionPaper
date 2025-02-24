@@ -1,0 +1,185 @@
+{
+    "questionPaper": [
+      {
+        "category": "Operating System Basics",
+        "questions": [
+          {
+            "question": "Which of the following is not an operating system?",
+            "options": ["Windows", "Linux", "Oracle", "MacOS"],
+            "answer": "c) Oracle"
+          },
+          {
+            "question": "What is the primary function of an operating system?",
+            "options": ["Word processing", "Database management", "Manage hardware and software resources", "Web browsing"],
+            "answer": "c) Manage hardware and software resources"
+          },
+          {
+            "question": "Which of the following is an open-source operating system?",
+            "options": ["Windows", "Linux", "macOS", "DOS"],
+            "answer": "b) Linux"
+          },
+          {
+            "question": "Which of the following is NOT a type of operating system?",
+            "options": ["Real-time OS", "Multi-user OS", "Single-user OS", "Compiler OS"],
+            "answer": "d) Compiler OS"
+          },
+          {
+            "question": "Which part of the operating system interacts with hardware directly?",
+            "options": ["User Interface", "Shell", "Kernel", "Application Layer"],
+            "answer": "c) Kernel"
+          }
+        ]
+      },
+      {
+        "category": "Process Management",
+        "questions": [
+          {
+            "question": "A process in an operating system is:",
+            "options": ["A program in execution", "A passive entity", "A set of commands", "A function of the kernel"],
+            "answer": "a) A program in execution"
+          },
+          {
+            "question": "Which of the following is not a state of a process?",
+            "options": ["Ready", "Running", "Blocked", "Compiled"],
+            "answer": "d) Compiled"
+          },
+          {
+            "question": "Which scheduling algorithm assigns the CPU to the process that arrives first?",
+            "options": ["Shortest Job First", "First Come First Serve", "Round Robin", "Priority Scheduling"],
+            "answer": "b) First Come First Serve"
+          },
+          {
+            "question": "Which scheduling algorithm is based on a time-sharing mechanism?",
+            "options": ["Round Robin", "Priority Scheduling", "Shortest Job First", "Multilevel Queue"],
+            "answer": "a) Round Robin"
+          },
+          {
+            "question": "Which of the following is true about multithreading?",
+            "options": ["Increases CPU utilization", "Decreases performance", "Uses only a single core", "Requires only one process"],
+            "answer": "a) Increases CPU utilization"
+          }
+        ]
+      },
+      {
+        "category": "Memory Management",
+        "questions": [
+          {
+            "question": "What is swapping in memory management?",
+            "options": ["Replacing old RAM", "Moving processes between main memory and disk", "Changing CPU", "Rebooting a system"],
+            "answer": "b) Moving processes between main memory and disk"
+          },
+          {
+            "question": "Which memory allocation method results in the best memory utilization?",
+            "options": ["Best Fit", "Worst Fit", "First Fit", "Random Fit"],
+            "answer": "a) Best Fit"
+          },
+          {
+            "question": "Paging in memory management is used for:",
+            "options": ["Reducing CPU load", "Fragmentation reduction", "Increasing execution speed", "File encryption"],
+            "answer": "b) Fragmentation reduction"
+          },
+          {
+            "question": "Which of the following is NOT a memory management technique?",
+            "options": ["Paging", "Segmentation", "Scheduling", "Swapping"],
+            "answer": "c) Scheduling"
+          },
+          {
+            "question": "The process of dividing the memory into fixed-size blocks is called:",
+            "options": ["Segmentation", "Paging", "Caching", "Buffering"],
+            "answer": "b) Paging"
+          }
+        ]
+      },
+      {
+        "category": "File System Management",
+        "questions": [
+          {
+            "question": "A file system does not manage:",
+            "options": ["Files and directories", "File permissions", "Memory allocation", "Disk space"],
+            "answer": "c) Memory allocation"
+          },
+          {
+            "question": "Which of the following is a file system used by Windows?",
+            "options": ["EXT4", "FAT32", "NTFS", "Both b and c"],
+            "answer": "d) Both b and c"
+          },
+          {
+            "question": "Which of the following file types can execute a program?",
+            "options": [".txt", ".exe", ".jpg", ".mp4"],
+            "answer": "b) .exe"
+          },
+          {
+            "question": "The command to display files in Linux is:",
+            "options": ["dir", "ls", "view", "list"],
+            "answer": "b) ls"
+          },
+          {
+            "question": "Which operation is NOT performed by a file system?",
+            "options": ["File creation", "File deletion", "File encryption", "File debugging"],
+            "answer": "d) File debugging"
+          }
+        ]
+      },
+      {
+        "category": "Deadlocks",
+        "questions": [
+          {
+            "question": "A deadlock occurs when:",
+            "options": ["Processes run indefinitely", "Two or more processes are waiting for each other’s resources", "Memory gets exhausted", "The CPU overheats"],
+            "answer": "b) Two or more processes are waiting for each other’s resources"
+          },
+          {
+            "question": "One of the necessary conditions for deadlock is:",
+            "options": ["No Preemption", "Infinite CPU usage", "High memory allocation", "Kernel Panic"],
+            "answer": "a) No Preemption"
+          },
+          {
+            "question": "Which method can prevent deadlocks?",
+            "options": ["Resource allocation graph", "Priority scheduling", "Semaphore locking", "Multilevel queue scheduling"],
+            "answer": "a) Resource allocation graph"
+          },
+          {
+            "question": "Which of the following is a deadlock handling method?",
+            "options": ["Ignoring the deadlock", "Process termination", "Resource allocation graph analysis", "All of the above"],
+            "answer": "d) All of the above"
+          },
+          {
+            "question": "Deadlock can be avoided using:",
+            "options": ["Banker's Algorithm", "FIFO Scheduling", "Round Robin Scheduling", "Preemptive Scheduling"],
+            "answer": "a) Banker’s Algorithm"
+          }
+        ]
+      },
+      {
+        "category": "Device Management & I/O Systems",
+        "questions": [
+          {
+            "question": "The I/O system is responsible for:",
+            "options": ["Process execution", "Memory management", "Managing input and output devices", "Task scheduling"],
+            "answer": "c) Managing input and output devices"
+          },
+          {
+            "question": "Which of the following is not an input device?",
+            "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+            "answer": "c) Monitor"
+          },
+          {
+            "question": "What is spooling?",
+            "options": ["A scheduling algorithm", "Storing data for slow devices", "A type of kernel", "A caching technique"],
+            "answer": "b) Storing data for slow devices"
+          },
+          {
+            "question": "Which buffer holds output data before sending it to a device?",
+            "options": ["Input buffer", "Output buffer", "Print buffer", "Keyboard buffer"],
+            "answer": "b) Output buffer"
+          },
+          {
+            "question": "Which system call is used for device control?",
+            "options": ["read()", "write()", "ioctl()", "fork()"],
+            "answer": "c) ioctl()"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,185 @@
+{
+    "questionPaper": [
+      {
+        "category": "Data Science Basics",
+        "questions": [
+          {
+            "question": "Which of the following is NOT a component of Data Science?",
+            "options": ["Statistics", "Machine Learning", "Database Management", "Web Development"],
+            "answer": "d) Web Development"
+          },
+          {
+            "question": "Which programming language is most commonly used in Data Science?",
+            "options": ["Java", "Python", "C++", "HTML"],
+            "answer": "b) Python"
+          },
+          {
+            "question": "Which of the following is NOT a step in the Data Science process?",
+            "options": ["Data Collection", "Data Cleaning", "Writing HTML code", "Model Evaluation"],
+            "answer": "c) Writing HTML code"
+          },
+          {
+            "question": "Which field is Data Science most closely related to?",
+            "options": ["Physics", "Computer Science", "Literature", "Architecture"],
+            "answer": "b) Computer Science"
+          },
+          {
+            "question": "Which of the following is NOT an application of Data Science?",
+            "options": ["Fraud Detection", "Self-driving cars", "Image Recognition", "Cooking Recipes"],
+            "answer": "d) Cooking Recipes"
+          }
+        ]
+      },
+      {
+        "category": "Data Handling & Preprocessing",
+        "questions": [
+          {
+            "question": "What is the process of cleaning and organizing raw data before analysis?",
+            "options": ["Data Mining", "Data Preprocessing", "Data Visualization", "Data Warehousing"],
+            "answer": "b) Data Preprocessing"
+          },
+          {
+            "question": "Which of the following is a technique used for handling missing data?",
+            "options": ["Data Encoding", "Data Imputation", "Data Normalization", "Data Reduction"],
+            "answer": "b) Data Imputation"
+          },
+          {
+            "question": "What is the term for detecting and correcting errors in data?",
+            "options": ["Data Validation", "Data Wrangling", "Data Integration", "Data Encryption"],
+            "answer": "a) Data Validation"
+          },
+          {
+            "question": "Which of the following can help in handling outliers in a dataset?",
+            "options": ["Mean Replacement", "Removing Outliers", "Transforming Data", "All of the Above"],
+            "answer": "d) All of the Above"
+          },
+          {
+            "question": "Which method is used for feature scaling?",
+            "options": ["Min-Max Scaling", "Standardization", "Normalization", "All of the Above"],
+            "answer": "d) All of the Above"
+          }
+        ]
+      },
+      {
+        "category": "Machine Learning",
+        "questions": [
+          {
+            "question": "Which type of machine learning uses labeled data?",
+            "options": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning"],
+            "answer": "a) Supervised Learning"
+          },
+          {
+            "question": "K-Means is an example of:",
+            "options": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Regression"],
+            "answer": "b) Unsupervised Learning"
+          },
+          {
+            "question": "Which algorithm is best for predicting continuous values?",
+            "options": ["Decision Tree", "Logistic Regression", "Linear Regression", "K-Means"],
+            "answer": "c) Linear Regression"
+          },
+          {
+            "question": "Which algorithm is used for classification problems?",
+            "options": ["Naive Bayes", "K-Means", "PCA", "Apriori Algorithm"],
+            "answer": "a) Naive Bayes"
+          },
+          {
+            "question": "Which of the following is a reinforcement learning algorithm?",
+            "options": ["Q-Learning", "K-Means", "Decision Tree", "Linear Regression"],
+            "answer": "a) Q-Learning"
+          }
+        ]
+      },
+      {
+        "category": "Data Visualization",
+        "questions": [
+          {
+            "question": "Which library is used for data visualization in Python?",
+            "options": ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
+            "answer": "c) Matplotlib"
+          },
+          {
+            "question": "Which visualization is best for showing trends over time?",
+            "options": ["Bar Chart", "Pie Chart", "Line Chart", "Scatter Plot"],
+            "answer": "c) Line Chart"
+          },
+          {
+            "question": "Which chart type is best for displaying proportions?",
+            "options": ["Line Chart", "Pie Chart", "Histogram", "Box Plot"],
+            "answer": "b) Pie Chart"
+          },
+          {
+            "question": "What is the main use of a scatter plot?",
+            "options": ["Showing relationships between variables", "Summarizing categorical data", "Displaying trends over time", "Comparing proportions"],
+            "answer": "a) Showing relationships between variables"
+          },
+          {
+            "question": "Which visualization technique is used for high-dimensional data?",
+            "options": ["PCA", "Histogram", "Box Plot", "Line Graph"],
+            "answer": "a) PCA"
+          }
+        ]
+      },
+      {
+        "category": "Statistics & Probability",
+        "questions": [
+          {
+            "question": "What is the measure of central tendency?",
+            "options": ["Mean", "Median", "Mode", "All of the Above"],
+            "answer": "d) All of the Above"
+          },
+          {
+            "question": "What does variance measure in a dataset?",
+            "options": ["Central value", "Spread of data", "Frequency of values", "Data type"],
+            "answer": "b) Spread of data"
+          },
+          {
+            "question": "Which probability distribution is used in linear regression?",
+            "options": ["Normal Distribution", "Binomial Distribution", "Poisson Distribution", "Uniform Distribution"],
+            "answer": "a) Normal Distribution"
+          },
+          {
+            "question": "What is the range of probabilities for an event?",
+            "options": ["0 to 1", "-1 to 1", "Any real number", "0 to infinity"],
+            "answer": "a) 0 to 1"
+          },
+          {
+            "question": "What is the probability of getting a tail when flipping a fair coin?",
+            "options": ["0.5", "1", "0", "2"],
+            "answer": "a) 0.5"
+          }
+        ]
+      },
+      {
+        "category": "Big Data & Cloud Computing",
+        "questions": [
+          {
+            "question": "What does 'Big Data' primarily deal with?",
+            "options": ["Small datasets", "Large, complex datasets", "Secure databases", "Web design"],
+            "answer": "b) Large, complex datasets"
+          },
+          {
+            "question": "Which of the following is NOT a Big Data framework?",
+            "options": ["Hadoop", "Spark", "TensorFlow", "Hive"],
+            "answer": "c) TensorFlow"
+          },
+          {
+            "question": "Which cloud computing model provides a virtual machine?",
+            "options": ["SaaS", "PaaS", "IaaS", "DaaS"],
+            "answer": "c) IaaS"
+          },
+          {
+            "question": "Which of the following is an example of cloud storage?",
+            "options": ["Google Drive", "Excel", "SQLite", "SQL Server"],
+            "answer": "a) Google Drive"
+          },
+          {
+            "question": "Which company developed Hadoop?",
+            "options": ["Microsoft", "Apache", "Google", "Facebook"],
+            "answer": "b) Apache"
+          }
+        ]
+      }
+    ]
+  }
+  
